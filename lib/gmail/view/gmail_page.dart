@@ -51,7 +51,7 @@ class GmailPage extends StatelessWidget {
               Mails(
                 title: 'Welcome to Gmail',
                 content:
-                    'A declarative routing package for Flutter that uses the Router API to provide a convenient, url-based API for navigating between different screens. You can define URL patterns, navigate using a URL, handle deep links, and a number of other navigation-related scenarios.',
+                    '''A declarative routing package for Flutter that uses the Router API to provide a convenient, url-based API for navigating between different screens. You can define URL patterns, navigate using a URL, handle deep links, and a number of other navigation-related scenarios.''',
                 time: '9:00 AM',
                 hasAttachment: true,
                 nameAttachment: 'go_router 10.1.2 ',

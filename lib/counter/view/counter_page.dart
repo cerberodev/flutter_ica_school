@@ -1,5 +1,4 @@
 import 'package:app_dos/counter/counter.dart';
-import 'package:app_dos/gmail/gmail.dart';
 import 'package:app_dos/l10n/l10n.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

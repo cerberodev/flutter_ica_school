@@ -1,6 +1,4 @@
 import 'package:app_dos/app/router/router.dart';
-import 'package:app_dos/counter/counter.dart';
-import 'package:app_dos/home/home.dart';
 import 'package:app_dos/l10n/l10n.dart';
 import 'package:flutter/material.dart';
 

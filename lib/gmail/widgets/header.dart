@@ -59,7 +59,8 @@ class Header extends StatelessWidget {
               shape: BoxShape.circle,
               image: DecorationImage(
                 image: NetworkImage(
-                    'https://avatars.githubusercontent.com/u/47544543?s=400&v=4'),
+                  'https://avatars.githubusercontent.com/u/47544543?s=400&v=4',
+                ),
               ),
             ),
           ),
