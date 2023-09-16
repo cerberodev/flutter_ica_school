@@ -1,0 +1,32 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "homeAppBarTitle": "Escuela de Flutter",
+    "@homeAppBarTitle": {
+        "description": "Escuela de Flutter - Texto mostrado en la AppBar de la página de inicio"
+    },
+    "homeRouterButtonCounter": "Ingresa a la pagina del contador",
+    "@homeRouterButtonCounter": {
+        "description": "Texto mostrado en el botón de la página de inicio para ir a la página del contador"
+    },
+    "homeRouterButtonGmail": "Ingresa a la pagina de Gmail",
+    "@homeRouterButtonGmail": {
+        "description": "Texto mostrado en el botón de la página de inicio para ir a la página del buscador de correos"
+    },
+    "gmailSearchHeaderMenuTooltip": "Menu",
+    "@gmailSearchHeaderMenuTooltip": {
+        "description": "Texto mostrado en el tooltip del botón del menú del Headet de la página del buscador de correos"
+    },
+    "gmailSearchHeaderHintText": "Buscar correo",
+    "@gmailSearchHeaderHintText": {
+        "description": "Texto mostrado en el hint del TextField del Header de la página del buscador de correos"
+    },
+    "gmailSearchHeaderSearchTooltip": "Boton de busqueda",
+    "@gmailSearchHeaderSearchTooltip": {
+        "description": "Texto mostrado en el tooltip del botón de busqueda del Header de la página del buscador de correos"
+    }
+    
+}

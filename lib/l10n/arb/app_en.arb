@@ -1,0 +1,31 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "homeAppBarTitle": "Flutter School",
+    "@homeAppBarTitle": {
+        "description": "Text shown in the AppBar of the Home Page"
+    },
+    "homeRouterButtonCounter": "Go to the Counter Page",
+    "@homeRouterButtonCounter": {
+        "description": "Text shown in the Router Button of the Home Page"
+    },
+    "homeRouterButtonGmail": "Go to the Gmail Page",
+    "@homeRouterButtonGmail": {
+        "description": "Text shown in the Router Button of the Home Page"
+    },
+    "gmailSearchHeaderMenuTooltip": "",
+    "@gmailSearchHeaderMenuTooltip": {
+        "description": "Tooltip shown in the Header of the Gmail Page"
+    },
+    "gmailSearchHeaderHintText": "Search mail",
+    "@gmailSearchHeaderHintText": {
+        "description": "Hint Text shown in the Header of the Gmail Page"
+    },
+    "gmailSearchHeaderSearchTooltip": "Search icon tooltip",
+    "@gmailSearchHeaderSearchTooltip": {
+        "description": "Tooltip shown in the Search Icon of the Gmail Page"
+    }
+}
